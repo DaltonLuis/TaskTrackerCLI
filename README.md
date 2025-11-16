@@ -4,6 +4,12 @@
 
 ---
 
+## 🔗 Project URL
+
+GitHub Repository: **https://github.com/DaltonLuis/TaskTrackerCLI**
+
+---
+
 ## Features
 
 * Add, update, and delete tasks
