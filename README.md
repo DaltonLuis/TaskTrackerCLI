@@ -6,7 +6,7 @@
 
 ## 🔗 Project URL
 
-GitHub Repository: **https://github.com/DaltonLuis/TaskTrackerCLI**
+Project Source: **https://roadmap.sh/projects/task-tracker**
 
 ---
 
