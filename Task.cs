@@ -1,0 +1,17 @@
+public class Task
+{
+    public int Id { get; set; }
+    public string Status { get; set; }
+    public string Description { get; set; }
+    public DateTime CreatedAt { get; set; }
+    public DateTime UpdatedAt { get; set; }
+
+    public Task(int id, string description)
+    {
+        Id = id;
+        Description = description;
+        Status = "todo";
+        CreatedAt = DateTime.UtcNow;
+        UpdatedAt = DateTime.UtcNow;
+    }
+}
